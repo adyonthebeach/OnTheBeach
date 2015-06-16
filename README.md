@@ -2,11 +2,13 @@
 
 This is a submission for an OnTheBeach code test written by AdyOnTheBeach.
 
-The submission contains two solutions for the test because one written to use MSSQL and a second less concise solution written to use MongoDb. As there was no explicit request for a particular server technology I decided to show how the same solution could be built upon a completely different data layer.
+The submission contains two solutions for the test one written to use MSSQL and a second solution written to use MongoDb. As there was no explicit request for a particular server technology I decided to show how the same solution could be built upon a completely different data layer.
 
-Each console application's code can be found in their respective ConsoleApp folder and the application executables can be found in their own executable folders. There is also a seperate folder for each version which contains any database setup support files.
+Each console application's code can be found in their respective ConsoleApp folder and the application executables can be found in their own executable folders. There are also a seperate folders for each version which contains any database setup support files.
 
 Installation Notes
+
+The code was developed using VisualStudio 2010.
 
 MSSQL Setup and Installation
 
