@@ -41,7 +41,7 @@ namespace DataAccess
                     return new EmployeeSalary();
                 }
             }
-            catch (SqlException sex)
+            catch (SqlException)
             {
                 throw new Exception("There has been a problem trying to access the Employee data.");
             }
@@ -79,7 +79,7 @@ namespace DataAccess
 
                 return results;
             }
-            catch (SqlException sex)
+            catch (SqlException)
             {
                 throw new Exception("There has been a problem trying to access the Employee data.");
             }
