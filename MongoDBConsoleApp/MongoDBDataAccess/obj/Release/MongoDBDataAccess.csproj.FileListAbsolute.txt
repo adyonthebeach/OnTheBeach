@@ -1,0 +1,11 @@
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDBDataAccess.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDBDataAccess.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\DataModels.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDB.Bson.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDB.Driver.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\DataModels.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDB.Bson.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Release\MongoDB.Driver.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Release\MongoDBDataAccess.csprojResolveAssemblyReference.cache
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Release\MongoDBDataAccess.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Release\MongoDBDataAccess.pdb

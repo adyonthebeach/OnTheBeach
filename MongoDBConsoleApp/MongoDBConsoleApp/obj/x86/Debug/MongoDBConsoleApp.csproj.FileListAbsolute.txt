@@ -1,0 +1,14 @@
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\obj\x86\Debug\MongoDBConsoleApp.csprojResolveAssemblyReference.cache
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDBConsoleApp.exe
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDBConsoleApp.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\DataModels.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDBDataAccess.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDB.Driver.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDB.Bson.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\DataModels.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDBDataAccess.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDB.Driver.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDB.Bson.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\obj\x86\Debug\MongoDBConsoleApp.exe
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\obj\x86\Debug\MongoDBConsoleApp.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBConsoleApp\bin\Debug\MongoDBConsoleApp.exe.config

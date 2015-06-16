@@ -1,0 +1,11 @@
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Debug\MongoDBDataAccess.csprojResolveAssemblyReference.cache
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDBDataAccess.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDBDataAccess.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\DataModels.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDB.Bson.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDB.Driver.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\DataModels.pdb
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDB.Bson.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\bin\Debug\MongoDB.Driver.xml
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Debug\MongoDBDataAccess.dll
+C:\Git\OnTheBeach\MongoDBConsoleApp\MongoDBDataAccess\obj\Debug\MongoDBDataAccess.pdb

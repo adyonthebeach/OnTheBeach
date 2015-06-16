@@ -1,0 +1,10 @@
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\OnTheBeachConsoleApp.exe.config
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\OnTheBeachConsoleApp.exe
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\OnTheBeachConsoleApp.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\DataAccess.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\DataModels.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\DataAccess.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\bin\Release\DataModels.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\obj\x86\Release\OnTheBeachConsoleApp.csprojResolveAssemblyReference.cache
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\obj\x86\Release\OnTheBeachConsoleApp.exe
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\OnTheBeachConsoleApp\obj\x86\Release\OnTheBeachConsoleApp.pdb

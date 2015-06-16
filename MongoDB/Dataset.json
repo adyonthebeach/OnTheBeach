@@ -1,0 +1,85 @@
+{
+	"employee_id" : "1",
+	"name" : "Homer Simpson",
+	"role":	{
+			"role_id" : "1",
+			"name" : "Staff"
+		},
+	"salaries" : 	{
+			"salary_id" : "1",
+			"annual_amount" : "22000",
+			"currency" : 	{
+						"currency_id" : "2",
+						"unit" : "USD",
+						"conversion_factor" : "1.54"
+					}
+			}
+}
+{
+	"employee_id" : "2",
+	"name" : "Sterling Archer",
+	"role":	{
+			"role_id" : "1",
+			"name" : "Staff"
+		},
+	"salaries" : 	{
+			"salary_id" : "2",
+			"annual_amount" : "150000",
+			"currency" : 	{
+						"currency_id" : "2",
+						"unit" : "USD",
+						"conversion_factor" : "1.54"
+					}
+		}
+}
+{
+	"employee_id" : "3",
+	"name" : "Eric Cartman",
+	"role":	{
+			"role_id" : "1",
+			"name" : "Staff"
+		},
+	"salaries" : 	{
+			"salary_id" : "3",
+			"annual_amount" : "60000",
+			"currency" : 	{
+						"currency_id" : "4",
+						"unit" : "Sweets",
+						"conversion_factor" : "12"
+					}
+		}
+}
+{
+	"employee_id" : "4",
+	"name" : "Fred Flintstone",
+	"role":	{
+			"role_id" : "2",
+			"name" : "Manager"
+		},
+	"salaries" : 	{
+			"salary_id" : "4",
+			"annual_amount" : "900000",
+			"currency" : 	{
+						"currency_id" : "3",
+						"unit" : "Rocks",
+						"conversion_factor" : "10"
+					}
+		}
+}	
+{
+	"employee_id" : "5",
+	"name" : "Professor Farnsworth",
+	"role":	{
+			"role_id" : "3",
+			"name" : "Owner"
+		},
+	"salaries" : 	{
+			"salary_id" : "5",
+			"annual_amount" : "5000000000",
+			"currency" : 	{
+						"currency_id" : "5",
+						"unit" : "Credits",
+						"conversion_factor" : "8000"
+					}
+		}
+}

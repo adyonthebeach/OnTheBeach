@@ -1,0 +1,7 @@
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\bin\Release\DataAccess.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\bin\Release\DataAccess.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\bin\Release\DataModels.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\bin\Release\DataModels.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\obj\Release\MSSQLDataAccess.csprojResolveAssemblyReference.cache
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\obj\Release\DataAccess.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataAccess\obj\Release\DataAccess.pdb

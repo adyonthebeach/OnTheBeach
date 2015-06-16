@@ -1,0 +1,4 @@
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataModels\bin\Debug\DataModels.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataModels\bin\Debug\DataModels.pdb
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataModels\obj\Debug\DataModels.dll
+C:\Git\OnTheBeach\OnTheBeachConsoleApp\DataModels\obj\Debug\DataModels.pdb
