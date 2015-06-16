@@ -1,6 +1,12 @@
 # OnTheBeach
 
-The console application code can be found in their respective consoleapp folders and the application executables can be found in their own executable folders.
+This is a submission for an OnTheBeach code test written by AdyOnTheBeach.
+
+The submission contains two solutions for the test because one written to use MSSQL and a second less concise solution written to use MongoDb. As there was no explicit request for a particular server technology I decided to show how the same solution could be built upon a completely different data layer.
+
+Each console application's code can be found in their respective ConsoleApp folder and the application executables can be found in their own executable folders. There is also a seperate folder for each version which contains any database setup support files.
+
+Installation Notes
 
 MSSQL Setup and Installation
 
@@ -18,6 +24,8 @@ Additionally as done with the MSSQl example adding an index on the employee's na
 db.employees.createIndex( { name : 1 } ) 
 To use the mongo shell open a cmd window, navigate to the Mongo installation folder and run mongo.exe.
 
+The following is a summary of the required tasks
+
 Task 1
 
 An SQL file can be found in the MSSQL folder which contains a script which can be run to find all the employee salaries.
@@ -32,7 +40,8 @@ Task 2 and 3
 
 Run the applications in the executable folders make sure both the application.config files have been updated with the relevant connection string and that the databases have been installed and are running.
 
-Application Summary and Critical Analysis
+
+Final Application Summary and Critical Analysis
 
 The applications accept case insensitive input, this was done to make the application more user friendly.
 
